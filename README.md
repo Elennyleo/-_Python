@@ -1,2 +1,2 @@
-# -_Python
+# Python
 Автотесты Python + Pytest + Requests
